@@ -1,0 +1,41 @@
+.pokemon-card{
+    
+    background-color: #ec2828; /* Color de fons */
+    color: #333; /* Color del text */
+    margin: auto; /* Marge exterior */
+    padding: 50px; /* Marge interior */
+    border: 15px; /* Vora */
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.9);
+    width: 300px;
+    margin-top: 50px;  
+}
+
+.pokemon-image {
+max-width: 100%;
+border-radius: 10px;
+margin-bottom: 40px;
+}
+
+.pokemon-info {
+background-color: #ebfc05;
+border-radius: 13px;
+padding: 10px;
+}
+
+.pokemon-name{
+font-family: 'Opera 3';
+color: #333;
+font-size: 30px;
+}
+
+.pokemon-type{
+color: #4caf50;
+margin-bottom: 10px;
+}
+
+.pokemon-description{
+font-size: 20px;
+color: rgb(252, 0, 0);
+
+}
